@@ -1,4 +1,4 @@
-# 🌟 Vaishanavi Sonawane
+# 🌟 Vaishnavi Sonawane
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Vaishanavi+Sonawane;Data+Analyst+%7C+AI+Automation+Engineer;LLMs+%7C+LangChain+%7C+LangGraph+%7C+n8n;Turning+Data+Into+Smart+Automation+🤖;Building+Visual+Insights+and+AI+Agents" />
